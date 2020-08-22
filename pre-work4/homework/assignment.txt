@@ -1,0 +1,12 @@
+Assignment for Pre-Work 4!
+
+You will see 2 files: ex_2_assembly.s, hw2.c. Read it to the best of your abilities and write the corresponding c program!! In hw2.c please fill out the corresponding functions. 
+
+Helpful to know about assembly: 
+
+THIS IS PROBABLY THE MOST IMPORTANT CHEATSHEET OF CS61C!!! It contains what each instruction is and does. 
+https://inst.eecs.berkeley.edu/~cs61c/fa17/img/riscvcard.pdf
+
+
+
+
